@@ -1,4 +1,4 @@
-# AF_TechnicalEx
+# American Forests Technical Exercise, by Ally Detre
 American Forests Technical Exercise. November, 2025.
 
 ### Task Details:
