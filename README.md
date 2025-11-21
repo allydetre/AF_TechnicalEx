@@ -16,8 +16,8 @@ Create a data table output that summarizes all Census tracts for that state with
 
 ### Output:
 
-*CSV file with full PA results
-*CSV file with PA summary statistics
+* CSV file with full PA results
+* CSV file with PA summary statistics
 
 
 ## Project Contents
