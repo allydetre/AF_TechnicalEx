@@ -35,4 +35,29 @@ Create a data table output that summarizes all Census tracts for that state with
   * 'pa_full_results.csv' : Checkpoint csv save after all analyses, contains all columns (whereas PA_Results.csv contains only the required descriptive statistics)
   * 'PA_Full_Results_Column_Dictionary.csv' : Dictionary file to describe data/columns in pa_full_results.csv
 
- 
+
+## Setup Instructions
+
+### 1. Install Conda (if not already installed)
+Download Anaconda from [here]((https://www.anaconda.com/download))
+
+### 2. Create Environment
+Use Anaconda Prompt (Terminal on a Mac) to create the proper environment for this project by running:
+````bash
+conda env create -f environment.yml
+````
+
+### 3. Activate Environment
+Using the Anaconda Prompt (Terminal on a Mac), activate the environment:
+````bash
+conda activate americanforests
+````
+
+### 4. Launch Jupyter Notebook
+Again, in the Anaconda Prompt (or Terminal) run:
+````bash
+jupyter notebook
+````
+
+### 5. Open Technical_Ex_AmericanForests.ipynb and Run Cells!
+
