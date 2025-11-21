@@ -24,6 +24,7 @@ Create a data table output that summarizes all Census tracts for that state with
 * 'Technical_Ex_AmericanForests.ipynb' : Jupyter Notebook with full workflow/steps
 * 'environment.yml' : Conda-generated environment file with required packages/dependencies
 * 'README.md' : You are here!
+* 'Technical_Exercise_Instructions' : Instructions for this project/exercise
 * 'InterviewDatasets' : Folder containing census, landcover, and school datasets necessary to run this code
 * 'Final Output' : Folder containing 2 final csv outputs, along with a dictionary
   * 'PA_Results.csv' : Full results dataframe
