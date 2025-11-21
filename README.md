@@ -39,7 +39,7 @@ Create a data table output that summarizes all Census tracts for that state with
 ## Setup Instructions
 
 ### 1. Install Conda (if not already installed)
-Download Anaconda from [here]((https://www.anaconda.com/download))
+Download Anaconda from [here](https://www.anaconda.com/download)
 
 ### 2. Create Environment
 Use Anaconda Prompt (Terminal on a Mac) to create the proper environment for this project by running:
